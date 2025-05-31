@@ -92,7 +92,7 @@ export default function Home() {
         <p style={{ marginBottom: "0.5rem" }}>Conecte-se comigo:</p>
         <div style={{ fontSize: "1rem" }}>
           <a
-            href="https://github.com/seuusuario"
+            href="https://github.com/sandroccosta "
             target="_blank"
             rel="noopener noreferrer"
             style={linkStyle}
@@ -101,7 +101,7 @@ export default function Home() {
             GitHub
           </a>
           <a
-            href="https://www.linkedin.com/in/seulinkedin"
+            href="https://www.linkedin.com/in/alexsandro-costa-2008011b1/"
             target="_blank"
             rel="noopener noreferrer"
             style={linkStyle}
@@ -117,7 +117,7 @@ export default function Home() {
         <p style={{ marginTop: "1rem", fontSize: "0.95rem" }}>
           Repositório do projeto:{" "}
           <a
-            href="https://github.com/seuusuario/clone-tabnews-curso.dev"
+            href="https://github.com/sandroccosta/clone-tabnews-curso.dev"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "#90ee90" }}
