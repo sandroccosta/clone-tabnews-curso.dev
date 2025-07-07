@@ -12,5 +12,5 @@ test("2 + 3 dever retorna 5", () => {
 
 test("banana + 3 dever retornar error", () => {
   const resultado = calculadora.somar("banana", 3);
-  expect(resultado).toBe("error");
+  expect(resultado).toBe("erro");
 });
